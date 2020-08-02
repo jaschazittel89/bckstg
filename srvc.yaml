@@ -8,7 +8,6 @@ metadata:
     in [the Frobs RFC](https://example.com/spec/frob.html).
   labels:
     system: frobs
-    lifecycle: production
     example.com/service-discovery-name: frobsawesome
   annotations:
     circleci.com/project-slug: gh/example-org/frobs-awesome
