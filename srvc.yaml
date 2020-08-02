@@ -6,9 +6,6 @@ metadata:
   description: |
     Backend service that implements the Frobs API, as defined
     in [the Frobs RFC](https://example.com/spec/frob.html).
-  labels:
-    system: frobs
-    example.com/service-discovery-name: frobsawesome
   annotations:
     circleci.com/project-slug: gh/example-org/frobs-awesome
 spec:
